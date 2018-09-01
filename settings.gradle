@@ -1,0 +1,8 @@
+rootProject.name = 'project-template-clean-architecture-ddd'
+include 'core'
+include 'infrastructure'
+include 'infrastructure:controllers'
+include 'infrastructure:messaging'
+include 'infrastructure:persistence'
+
+
