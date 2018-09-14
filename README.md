@@ -1,5 +1,5 @@
 # Timeless architecture 
-### Domain Driven Design Meets Clean Architecture
+### Domain Driven Design - Meets - Clean Architecture
 
 The idea here is to completely isolate domain from infrastructural dependencies allowing one to swap controller, messaging or persistence layer independently.
 
