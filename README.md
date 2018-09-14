@@ -8,6 +8,6 @@ For example if you are using spring:
 - spring-data dependency is added to persistence only
 - spring-cloud-stream dependency is added to messaging only
     
-So in future if you wish to replace spring-data with something else then all you have to do is create a new persistence sub-project for it.     
+In future if you wish to replace spring-data with something else then all you have to do is create a new persistence sub-project for it.     
 
 ![Project Structure](https://raw.githubusercontent.com/sharmapankaj2512/timeless-architecture/master/project-structure.png) 
